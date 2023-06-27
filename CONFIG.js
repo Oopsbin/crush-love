@@ -1,10 +1,11 @@
 const CONFIGDATA = {
-  titleHeader: "Mình làm bạn nhé!",
+  titleHeader: "Em hỏi chị nhé!",
+  titleHeader: "Thi xong cho em thịt chị nha",
   descriptionHeader:
-    "Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^",
+    "Nếu chị thoát ra và không trả lời thì có nghĩa là chị đã ĐỒNG Ý rồi đấy ^^",
   buttonYes: "Đồng Ý",
   buttonNo: "Không! Còn lâu nhé.",
-  titleModar: "Cảm ơn em vì đồng ý",
+  titleModar: "Cảm ơn chị vì đồng ý",
   descriptionModar:
-    'Anh biết em sẽ đồng ý mà, hi vọng 2 ta sẽ mãi là người bạn tốt cảu nhau',
+    'Em biết chị sẽ đồng ý mà, hi vọng em sẽ được thịt chị',
 };
